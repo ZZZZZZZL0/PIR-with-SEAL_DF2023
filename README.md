@@ -1,2 +1,2 @@
-# fast-ranking
-this is run by Python 3.7
+# PIR with Seal V3.2.0
+this is run by C++ 11
